@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# lab1 build outputs
+lab1/cpp/sieve_cpp
+lab1/java/*.class
+lab1/rust/target/

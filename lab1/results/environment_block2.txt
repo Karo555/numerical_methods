@@ -1,0 +1,11 @@
+date: 2026-10-05T09:31:17Z
+cpu: Apple M1 Pro
+ram_bytes: 17179869184
+os: macOS 26.6.2 (25G83), arm64
+power: Now drawing from 'Battery Power'
+c++: Apple clang version 21.0.0 (clang-2100.0.123.102)
+python: CPython 3.14.2
+julia: julia version 1.13.1
+java: openjdk version "27" 2026-09-15
+rust: rustc 1.99.0 (b940084d7 2026-09-28)
+warmup_calls: 20, block: 2
